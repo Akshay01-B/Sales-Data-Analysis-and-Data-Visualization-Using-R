@@ -45,5 +45,5 @@ This project addresses that problem by providing **visual insights** using R.
 
 ---
 
-## 📂 Project Structure
+
 
