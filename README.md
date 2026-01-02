@@ -45,5 +45,25 @@ This project addresses that problem by providing **visual insights** using R.
 
 ---
 
+## 📊 Visualizations Included
 
+1. **Total Sales by Category** – Bar Chart  
+2. **Daily Sales Trend** – Line Chart  
+3. **Sales Distribution by Category** – Box Plot  
+4. **Total Sales by Region** – Bar Chart  
+5. **Average Sales by Customer Type** – Bar Chart  
+6. **Sales by Region & Category** – Heatmap  
+7. **Sales Conversion Flow** – Funnel Chart  
+8. **Average Sales with Confidence Intervals** – Forest Plot  
+
+---
+
+## 📈 Key Insights
+
+- Certain product categories contribute significantly more to total sales
+- Sales trends show daily fluctuations and patterns
+- Regional performance varies across categories
+- Returning customers show different spending behavior compared to new customers
+- Funnel analysis highlights drop-offs at key sales stages
+- Forest plots provide statistical confidence in average sales comparisons
 
